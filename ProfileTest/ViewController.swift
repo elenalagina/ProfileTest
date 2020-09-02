@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view.
 	
-		self.title = "Black demo"
-		self.view.backgroundColor = .black
+		self.title = "Red demo"
+		self.view.backgroundColor = .red
 	}
 }
